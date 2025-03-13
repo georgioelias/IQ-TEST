@@ -1,0 +1,18 @@
+{
+  "question_text": "Choose the correct answer \nStatements:\nSamosas are Jalebi.\nAll Jalebis are Tikki.\nAll Tikkis are Barfi.\n\nConclusion:\nI. All Jalebis are Barfi.\nII. All Tikkis are Samosas.\nIII. All Samosas are Barfi.\nIV. All Barfis are Jalebi.",
+  "options": [
+    {
+      "text": "Only I and II follow"
+    },
+    {
+      "text": "Only I and III follow"
+    },
+    {
+      "text": "Only II and III follow"
+    },
+    {
+      "text": "All follow"
+    }
+  ],
+  "correct_answer": "B"
+}

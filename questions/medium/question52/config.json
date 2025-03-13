@@ -1,0 +1,18 @@
+{
+  "question_text": "Choose the correct answer \nStatements:\nAll Liquids are Solids.\nSome Solids are Gases.\nAll Gases are Clouds.\n\nConclusion:\nI. Some Clouds are Solids.\nII. Some Clouds are Liquids.\nIII. Some Gases are Liquids.\nIV. Some Solids are Clouds.",
+  "options": [
+    {
+      "text": "None follow"
+    },
+    {
+      "text": "Only I and II follow"
+    },
+    {
+      "text": "Only III and IV follow"
+    },
+    {
+      "text": "Only I and IV follow"
+    }
+  ],
+  "correct_answer": "D"
+}

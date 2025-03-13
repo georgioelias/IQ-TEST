@@ -1,0 +1,18 @@
+{
+  "question_text": "Choose the correct answer \nStatements:\nSome Ships are Boats.\nAll Boats are Submarines.\nSome Submarines are Yachts.\n\nConclusion:\nI. Some Yachts are Boats.\nII. Some Submarines are Boats.\nIII. Some Submarines are Ships.\nIV. Some Yachts are Ships.\n\nChoices:",
+  "options": [
+    {
+      "text": "All follow"
+    },
+    {
+      "text": "Only II and III follow"
+    },
+    {
+      "text": "Only III follows"
+    },
+    {
+      "text": "Only IV follows"
+    }
+  ],
+  "correct_answer": "B"
+}

@@ -1,0 +1,18 @@
+{
+  "question_text": "Choose the correct answer \nStatements:\nSome Eyes are Ears.\nSome Ears are Lungs.\nAll Lungs are Hands.\n\nConclusion:\nI. Some Hands are Eyes.\nII. Some Hands are Ears.\nIII. Some Lungs are Eyes.\nIV. No Hand is Eye.",
+  "options": [
+    {
+      "text": "None follow"
+    },
+    {
+      "text": "Only IV follows"
+    },
+    {
+      "text": "Only II follows"
+    },
+    {
+      "text": "Only III follows"
+    }
+  ],
+  "correct_answer": "C"
+}

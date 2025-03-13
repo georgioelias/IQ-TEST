@@ -1,0 +1,18 @@
+{
+  "question_text": "Choose the correct answer \nStatements:\nAll Gold are Platinum.\nNo Platinum is Silver.\nSome Diamonds are Silver.\n\nConclusion:\nI. Some Diamonds are Gold.\nII. Some Diamonds are Platinum.\nIII. Some Gold are Silver.\nIV. No Silver is Gold.",
+  "options": [
+    {
+      "text": "Only I follows"
+    },
+    {
+      "text": "Only III follows"
+    },
+    {
+      "text": "Only IV follows"
+    },
+    {
+      "text": "Only II and IV follow"
+    }
+  ],
+  "correct_answer": "C"
+}

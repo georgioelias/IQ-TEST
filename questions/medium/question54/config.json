@@ -1,0 +1,18 @@
+{
+  "question_text": "Choose the correct answer \nStatements:\nSome Messages are WhatsApp.\nAll Hikes are WhatsApp.\nAll WhatsApp are Facebook.\n\nConclusion:\nI. Some Facebook are Messages.\nII. All Hikes are Facebook.\nIII. Some Messages are Hikes.\nIV. Some Messages are Facebook.",
+  "options": [
+    {
+      "text": "All follow"
+    },
+    {
+      "text": "Only I, II, and III follow"
+    },
+    {
+      "text": "Only I, II, and IV follow"
+    },
+    {
+      "text": "Only III and IV follow"
+    }
+  ],
+  "correct_answer": "C"
+}

@@ -1,0 +1,18 @@
+{
+  "question_text": "Choose the correct answer \nStatements:\nAll Carrots are Birds.\nSome Telephones are Carrots.\nAll Bedsheets are Telephones.\n\nConclusion:\nI. All Bedsheets are Birds.\nII. Some Bedsheets are Birds.\nIII. Some Birds are Telephones.\nIV. All Telephones are Birds.\n\nChoices:",
+  "options": [
+    {
+      "text": "Only I follows"
+    },
+    {
+      "text": "Only II follows"
+    },
+    {
+      "text": "Only I and III follow"
+    },
+    {
+      "text": "Only III follows"
+    }
+  ],
+  "correct_answer": "D"
+}

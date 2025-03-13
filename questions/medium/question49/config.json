@@ -1,0 +1,18 @@
+{
+  "question_text": "Choose the correct answer \nMost CPUs are Keyboards.\nNo Keyboard is a Mouse.\nAll Mice are CPUs.\n\nConclusion:\nI. Some Keyboards are CPUs.\nII. All CPUs are Mice.\nIII. No Mouse is a Keyboard.\nIV. Some Mice are Keyboards.",
+  "options": [
+    {
+      "text": "Only I follows"
+    },
+    {
+      "text": "Only II and III follow"
+    },
+    {
+      "text": "Only I and III follow"
+    },
+    {
+      "text": "Only II follows"
+    }
+  ],
+  "correct_answer": "C"
+}
